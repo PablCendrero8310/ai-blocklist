@@ -1,4 +1,4 @@
-# AI Blocklist — LMArena — plain domain list (each entry also covers its subdomains)
+# AI Blocklist — Arena — plain domain list (each entry also covers its subdomains)
 # 3 entries · updated 2026-10-15
 # Source: https://nullgen.ai/api/ai-vendors
 # Project: https://github.com/nullgen-inc/ai-blocklist

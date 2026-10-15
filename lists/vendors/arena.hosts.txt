@@ -1,4 +1,4 @@
-# AI Blocklist — LMArena — hosts file format
+# AI Blocklist — Arena — hosts file format
 # 6 entries · updated 2026-10-15
 # Source: https://nullgen.ai/api/ai-vendors
 # Project: https://github.com/nullgen-inc/ai-blocklist

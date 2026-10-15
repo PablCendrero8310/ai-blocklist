@@ -20,6 +20,16 @@
             ]
         },
         {
+            "id": "arena",
+            "name": "Arena",
+            "mainDomain": "arena.ai",
+            "hosts": [
+                "arena.ai",
+                "lmarena.ai",
+                "lmsys.org"
+            ]
+        },
+        {
             "id": "augment",
             "name": "Augment",
             "mainDomain": "augmentcode.com",
@@ -490,16 +500,6 @@
             "mainDomain": "leonardo.ai",
             "hosts": [
                 "leonardo.ai"
-            ]
-        },
-        {
-            "id": "lmarena",
-            "name": "LMArena",
-            "mainDomain": "lmarena.ai",
-            "hosts": [
-                "arena.ai",
-                "lmarena.ai",
-                "lmsys.org"
             ]
         },
         {

@@ -1,4 +1,4 @@
-! Title: AI Blocklist — LMArena
+! Title: AI Blocklist — Arena
 ! Description: Known generative-AI websites, apps, and API hosts, maintained by Nullgen. Excludes shared apexes (google.com, microsoft.com) that would break unrelated products.
 ! Homepage: https://nullgen.ai
 ! Source: https://github.com/nullgen-inc/ai-blocklist
