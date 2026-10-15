@@ -3,9 +3,11 @@
 ! Homepage: https://nullgen.ai
 ! Source: https://github.com/nullgen-inc/ai-blocklist
 ! License: CC0-1.0
-! Last modified: 2026-09-30
+! Last modified: 2026-10-15
 ! Expires: 1 day
-! Entries: 2
+! Entries: 4
 
 ||chat.qwen.ai^
 ||qwen.ai^
+||tongyi.aliyun.com^
+||tongyi.com^

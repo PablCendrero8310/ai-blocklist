@@ -1,21 +1,33 @@
 # AI Blocklist — hosts file format
-# 304 entries · updated 2026-09-30
+# 345 entries · updated 2026-10-15
 # Source: https://nullgen.ai/api/ai-vendors
 # Project: https://github.com/nullgen-inc/ai-blocklist
 # Maintained by Nullgen — https://nullgen.ai
 # Hosts files match exact names only (www. twins included); use the AdGuard or domains list for full subdomain coverage.
 
+0.0.0.0 ab.chatgpt.com
 0.0.0.0 aiplatform.googleapis.com
 0.0.0.0 aistudio.google.com
 0.0.0.0 alkali.generativelanguage.googleapis.com
 0.0.0.0 alkalimakersuite-pa.clients6.google.com
+0.0.0.0 android.chat.openai.com
 0.0.0.0 api.anthropic.com
+0.0.0.0 api.business.githubcopilot.com
+0.0.0.0 api.enterprise.githubcopilot.com
+0.0.0.0 api.githubcopilot.com
+0.0.0.0 api.individual.githubcopilot.com
+0.0.0.0 api.minimax.chat
 0.0.0.0 api.mistral.ai
 0.0.0.0 api.openai.com
+0.0.0.0 api.perplexity.ai
 0.0.0.0 api.together.xyz
 0.0.0.0 api.x.ai
+0.0.0.0 api2.cursor.sh
+0.0.0.0 api3.cursor.sh
+0.0.0.0 api4.cursor.sh
 0.0.0.0 app.devin.ai
 0.0.0.0 appsgenaiserver-pa.clients6.google.com
+0.0.0.0 arena.ai
 0.0.0.0 assistant.google.com
 0.0.0.0 assistant.googleapis.com
 0.0.0.0 augmentcode.com
@@ -29,6 +41,7 @@
 0.0.0.0 c.ai
 0.0.0.0 caktus.ai
 0.0.0.0 candy.ai
+0.0.0.0 cdn.oaistatic.com
 0.0.0.0 chai-research.com
 0.0.0.0 chai.ml
 0.0.0.0 chaiapp.com
@@ -43,6 +56,8 @@
 0.0.0.0 chatpdf.com
 0.0.0.0 civitai.com
 0.0.0.0 claude.ai
+0.0.0.0 claude.com
+0.0.0.0 claudeusercontent.com
 0.0.0.0 codeium.com
 0.0.0.0 codewhisperer.us-east-1.amazonaws.com
 0.0.0.0 cohere.ai
@@ -50,8 +65,10 @@
 0.0.0.0 consensus.app
 0.0.0.0 console.anthropic.com
 0.0.0.0 console.groq.com
+0.0.0.0 console.mistral.ai
 0.0.0.0 continue.dev
 0.0.0.0 copilot-proxy.githubusercontent.com
+0.0.0.0 copilot-telemetry.githubusercontent.com
 0.0.0.0 copilot.cloud.microsoft
 0.0.0.0 copilot.github.com
 0.0.0.0 copilot.microsoft.com
@@ -67,6 +84,8 @@
 0.0.0.0 elevenlabs.io
 0.0.0.0 elicit.com
 0.0.0.0 factory.ai
+0.0.0.0 factory.com
+0.0.0.0 files.oaiusercontent.com
 0.0.0.0 fireflies.ai
 0.0.0.0 firefly.adobe.com
 0.0.0.0 fireworks.ai
@@ -110,6 +129,7 @@
 0.0.0.0 magnific.ai
 0.0.0.0 magnific.com
 0.0.0.0 manus.im
+0.0.0.0 mcp-proxy.anthropic.com
 0.0.0.0 meta-agents-apps.workers.dev
 0.0.0.0 meta.ai
 0.0.0.0 metaaiusercontent.com
@@ -117,7 +137,9 @@
 0.0.0.0 minimax.chat
 0.0.0.0 minimax.io
 0.0.0.0 minimaxi.com
+0.0.0.0 mistral.ai
 0.0.0.0 monica.im
+0.0.0.0 moonshot.cn
 0.0.0.0 muse.ai
 0.0.0.0 napkin.ai
 0.0.0.0 nomi.ai
@@ -126,10 +148,12 @@
 0.0.0.0 notebooklm.google.com
 0.0.0.0 novelai.net
 0.0.0.0 oaistatic.com
+0.0.0.0 oaistatsig.com
 0.0.0.0 oaiusercontent.com
 0.0.0.0 opa-pa.clients6.google.com
 0.0.0.0 opa-pa.googleapis.com
 0.0.0.0 openrouter.ai
+0.0.0.0 origin-tracker.githubusercontent.com
 0.0.0.0 otter.ai
 0.0.0.0 perplexity.ai
 0.0.0.0 phind.com
@@ -138,18 +162,22 @@
 0.0.0.0 pi.ai
 0.0.0.0 pika.art
 0.0.0.0 pixverse.ai
+0.0.0.0 platform.claude.com
 0.0.0.0 platform.openai.com
 0.0.0.0 playground.com
 0.0.0.0 playgroundai.com
 0.0.0.0 poe.com
 0.0.0.0 pplx.ai
-0.0.0.0 pro.gemini.google.com
+0.0.0.0 proxy.business.githubcopilot.com
+0.0.0.0 proxy.enterprise.githubcopilot.com
+0.0.0.0 proxy.individual.githubcopilot.com
 0.0.0.0 q.us-east-1.amazonaws.com
 0.0.0.0 quillbot.com
 0.0.0.0 qwen.ai
 0.0.0.0 recraft.ai
 0.0.0.0 replika.ai
 0.0.0.0 replika.com
+0.0.0.0 repo42.cursor.sh
 0.0.0.0 robinfrontend-pa.googleapis.com
 0.0.0.0 runway.com
 0.0.0.0 runwayml.com
@@ -168,6 +196,8 @@
 0.0.0.0 tailwind-pa.googleapis.com
 0.0.0.0 talkie-ai.app
 0.0.0.0 talkie-ai.com
+0.0.0.0 tongyi.aliyun.com
+0.0.0.0 tongyi.com
 0.0.0.0 udio.com
 0.0.0.0 undetectable.ai
 0.0.0.0 v0.app
@@ -180,6 +210,8 @@
 0.0.0.0 windsurf.com
 0.0.0.0 wordtune.com
 0.0.0.0 writesonic.com
+0.0.0.0 ws.chatgpt.com
+0.0.0.0 www.arena.ai
 0.0.0.0 www.augmentcode.com
 0.0.0.0 www.base44.com
 0.0.0.0 www.bfl.ai
@@ -197,6 +229,8 @@
 0.0.0.0 www.chatpdf.com
 0.0.0.0 www.civitai.com
 0.0.0.0 www.claude.ai
+0.0.0.0 www.claude.com
+0.0.0.0 www.claudeusercontent.com
 0.0.0.0 www.codeium.com
 0.0.0.0 www.cohere.ai
 0.0.0.0 www.cohere.com
@@ -214,6 +248,7 @@
 0.0.0.0 www.elevenlabs.io
 0.0.0.0 www.elicit.com
 0.0.0.0 www.factory.ai
+0.0.0.0 www.factory.com
 0.0.0.0 www.fireflies.ai
 0.0.0.0 www.fireworks.ai
 0.0.0.0 www.gamma.app
@@ -254,12 +289,15 @@
 0.0.0.0 www.minimax.chat
 0.0.0.0 www.minimax.io
 0.0.0.0 www.minimaxi.com
+0.0.0.0 www.mistral.ai
 0.0.0.0 www.monica.im
+0.0.0.0 www.moonshot.cn
 0.0.0.0 www.muse.ai
 0.0.0.0 www.napkin.ai
 0.0.0.0 www.nomi.ai
 0.0.0.0 www.novelai.net
 0.0.0.0 www.oaistatic.com
+0.0.0.0 www.oaistatsig.com
 0.0.0.0 www.oaiusercontent.com
 0.0.0.0 www.openrouter.ai
 0.0.0.0 www.otter.ai
@@ -293,6 +331,7 @@
 0.0.0.0 www.tabnine.com
 0.0.0.0 www.talkie-ai.app
 0.0.0.0 www.talkie-ai.com
+0.0.0.0 www.tongyi.com
 0.0.0.0 www.udio.com
 0.0.0.0 www.undetectable.ai
 0.0.0.0 www.v0.app
@@ -303,8 +342,10 @@
 0.0.0.0 www.windsurf.com
 0.0.0.0 www.wordtune.com
 0.0.0.0 www.writesonic.com
+0.0.0.0 www.x.ai
 0.0.0.0 www.you.com
 0.0.0.0 www.z.ai
+0.0.0.0 x.ai
 0.0.0.0 yiyan.baidu.com
 0.0.0.0 you.com
 0.0.0.0 yuanbao.tencent.com

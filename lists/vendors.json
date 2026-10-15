@@ -101,15 +101,21 @@
             "name": "ChatGPT",
             "mainDomain": "chatgpt.com",
             "hosts": [
+                "ab.chatgpt.com",
+                "android.chat.openai.com",
                 "api.openai.com",
                 "auth.openai.com",
                 "auth0.openai.com",
+                "cdn.oaistatic.com",
                 "chat.openai.com",
                 "chatgpt.com",
+                "files.oaiusercontent.com",
                 "ios.chat.openai.com",
                 "oaistatic.com",
+                "oaistatsig.com",
                 "oaiusercontent.com",
-                "platform.openai.com"
+                "platform.openai.com",
+                "ws.chatgpt.com"
             ]
         },
         {
@@ -135,7 +141,11 @@
             "hosts": [
                 "api.anthropic.com",
                 "claude.ai",
-                "console.anthropic.com"
+                "claude.com",
+                "claudeusercontent.com",
+                "console.anthropic.com",
+                "mcp-proxy.anthropic.com",
+                "platform.claude.com"
             ]
         },
         {
@@ -184,8 +194,12 @@
             "name": "Cursor",
             "mainDomain": "cursor.com",
             "hosts": [
+                "api2.cursor.sh",
+                "api3.cursor.sh",
+                "api4.cursor.sh",
                 "cursor.com",
-                "cursor.sh"
+                "cursor.sh",
+                "repo42.cursor.sh"
             ]
         },
         {
@@ -252,7 +266,8 @@
             "name": "Factory",
             "mainDomain": "factory.ai",
             "hosts": [
-                "factory.ai"
+                "factory.ai",
+                "factory.com"
             ]
         },
         {
@@ -304,7 +319,6 @@
                 "jnn-pa.googleapis.com",
                 "opa-pa.clients6.google.com",
                 "opa-pa.googleapis.com",
-                "pro.gemini.google.com",
                 "robinfrontend-pa.googleapis.com",
                 "waa-pa.clients6.google.com"
             ]
@@ -322,9 +336,18 @@
             "name": "GitHub Copilot",
             "mainDomain": "copilot.github.com",
             "hosts": [
+                "api.business.githubcopilot.com",
+                "api.enterprise.githubcopilot.com",
+                "api.githubcopilot.com",
+                "api.individual.githubcopilot.com",
                 "copilot-proxy.githubusercontent.com",
+                "copilot-telemetry.githubusercontent.com",
                 "copilot.github.com",
-                "githubcopilot.com"
+                "githubcopilot.com",
+                "origin-tracker.githubusercontent.com",
+                "proxy.business.githubcopilot.com",
+                "proxy.enterprise.githubcopilot.com",
+                "proxy.individual.githubcopilot.com"
             ]
         },
         {
@@ -346,7 +369,8 @@
             "hosts": [
                 "api.x.ai",
                 "grok.com",
-                "grok.x.ai"
+                "grok.x.ai",
+                "x.ai"
             ]
         },
         {
@@ -431,7 +455,8 @@
             "mainDomain": "kimi.com",
             "hosts": [
                 "kimi.com",
-                "kimi.moonshot.cn"
+                "kimi.moonshot.cn",
+                "moonshot.cn"
             ]
         },
         {
@@ -472,6 +497,7 @@
             "name": "LMArena",
             "mainDomain": "lmarena.ai",
             "hosts": [
+                "arena.ai",
                 "lmarena.ai",
                 "lmsys.org"
             ]
@@ -541,6 +567,7 @@
             "name": "MiniMax",
             "mainDomain": "minimax.io",
             "hosts": [
+                "api.minimax.chat",
                 "hailuoai.com",
                 "hailuoai.video",
                 "minimax.chat",
@@ -554,7 +581,9 @@
             "mainDomain": "chat.mistral.ai",
             "hosts": [
                 "api.mistral.ai",
-                "chat.mistral.ai"
+                "chat.mistral.ai",
+                "console.mistral.ai",
+                "mistral.ai"
             ]
         },
         {
@@ -632,6 +661,7 @@
             "name": "Perplexity",
             "mainDomain": "perplexity.ai",
             "hosts": [
+                "api.perplexity.ai",
                 "perplexity.ai",
                 "pplx.ai"
             ]
@@ -708,7 +738,9 @@
             "mainDomain": "chat.qwen.ai",
             "hosts": [
                 "chat.qwen.ai",
-                "qwen.ai"
+                "qwen.ai",
+                "tongyi.aliyun.com",
+                "tongyi.com"
             ]
         },
         {

@@ -3,9 +3,9 @@
 ! Homepage: https://nullgen.ai
 ! Source: https://github.com/nullgen-inc/ai-blocklist
 ! License: CC0-1.0
-! Last modified: 2026-09-30
+! Last modified: 2026-10-15
 ! Expires: 1 day
-! Entries: 15
+! Entries: 14
 
 ||aiplatform.googleapis.com^
 ||alkali.generativelanguage.googleapis.com^
@@ -19,6 +19,5 @@
 ||jnn-pa.googleapis.com^
 ||opa-pa.clients6.google.com^
 ||opa-pa.googleapis.com^
-||pro.gemini.google.com^
 ||robinfrontend-pa.googleapis.com^
 ||waa-pa.clients6.google.com^

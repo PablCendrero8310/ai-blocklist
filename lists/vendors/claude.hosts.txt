@@ -1,5 +1,5 @@
 # AI Blocklist — Claude — hosts file format
-# 4 entries · updated 2026-09-30
+# 10 entries · updated 2026-10-15
 # Source: https://nullgen.ai/api/ai-vendors
 # Project: https://github.com/nullgen-inc/ai-blocklist
 # Maintained by Nullgen — https://nullgen.ai
@@ -7,5 +7,11 @@
 
 0.0.0.0 api.anthropic.com
 0.0.0.0 claude.ai
+0.0.0.0 claude.com
+0.0.0.0 claudeusercontent.com
 0.0.0.0 console.anthropic.com
+0.0.0.0 mcp-proxy.anthropic.com
+0.0.0.0 platform.claude.com
 0.0.0.0 www.claude.ai
+0.0.0.0 www.claude.com
+0.0.0.0 www.claudeusercontent.com

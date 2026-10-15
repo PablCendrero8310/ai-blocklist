@@ -1,7 +1,8 @@
 # AI Blocklist — Factory — plain domain list (each entry also covers its subdomains)
-# 1 entries · updated 2026-09-30
+# 2 entries · updated 2026-10-15
 # Source: https://nullgen.ai/api/ai-vendors
 # Project: https://github.com/nullgen-inc/ai-blocklist
 # Maintained by Nullgen — https://nullgen.ai
 
 factory.ai
+factory.com

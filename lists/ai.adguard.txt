@@ -3,21 +3,33 @@
 ! Homepage: https://nullgen.ai
 ! Source: https://github.com/nullgen-inc/ai-blocklist
 ! License: CC0-1.0
-! Last modified: 2026-09-30
+! Last modified: 2026-10-15
 ! Expires: 1 day
-! Entries: 179
+! Entries: 211
 
+||ab.chatgpt.com^
 ||aiplatform.googleapis.com^
 ||aistudio.google.com^
 ||alkali.generativelanguage.googleapis.com^
 ||alkalimakersuite-pa.clients6.google.com^
+||android.chat.openai.com^
 ||api.anthropic.com^
+||api.business.githubcopilot.com^
+||api.enterprise.githubcopilot.com^
+||api.githubcopilot.com^
+||api.individual.githubcopilot.com^
+||api.minimax.chat^
 ||api.mistral.ai^
 ||api.openai.com^
+||api.perplexity.ai^
 ||api.together.xyz^
 ||api.x.ai^
+||api2.cursor.sh^
+||api3.cursor.sh^
+||api4.cursor.sh^
 ||app.devin.ai^
 ||appsgenaiserver-pa.clients6.google.com^
+||arena.ai^
 ||assistant.google.com^
 ||assistant.googleapis.com^
 ||augmentcode.com^
@@ -31,6 +43,7 @@
 ||c.ai^
 ||caktus.ai^
 ||candy.ai^
+||cdn.oaistatic.com^
 ||chai-research.com^
 ||chai.ml^
 ||chaiapp.com^
@@ -45,6 +58,8 @@
 ||chatpdf.com^
 ||civitai.com^
 ||claude.ai^
+||claude.com^
+||claudeusercontent.com^
 ||codeium.com^
 ||codewhisperer.us-east-1.amazonaws.com^
 ||cohere.ai^
@@ -52,8 +67,10 @@
 ||consensus.app^
 ||console.anthropic.com^
 ||console.groq.com^
+||console.mistral.ai^
 ||continue.dev^
 ||copilot-proxy.githubusercontent.com^
+||copilot-telemetry.githubusercontent.com^
 ||copilot.cloud.microsoft^
 ||copilot.github.com^
 ||copilot.microsoft.com^
@@ -69,6 +86,8 @@
 ||elevenlabs.io^
 ||elicit.com^
 ||factory.ai^
+||factory.com^
+||files.oaiusercontent.com^
 ||fireflies.ai^
 ||firefly.adobe.com^
 ||fireworks.ai^
@@ -112,6 +131,7 @@
 ||magnific.ai^
 ||magnific.com^
 ||manus.im^
+||mcp-proxy.anthropic.com^
 ||meta-agents-apps.workers.dev^
 ||meta.ai^
 ||metaaiusercontent.com^
@@ -119,7 +139,9 @@
 ||minimax.chat^
 ||minimax.io^
 ||minimaxi.com^
+||mistral.ai^
 ||monica.im^
+||moonshot.cn^
 ||muse.ai^
 ||napkin.ai^
 ||nomi.ai^
@@ -128,10 +150,12 @@
 ||notebooklm.google.com^
 ||novelai.net^
 ||oaistatic.com^
+||oaistatsig.com^
 ||oaiusercontent.com^
 ||opa-pa.clients6.google.com^
 ||opa-pa.googleapis.com^
 ||openrouter.ai^
+||origin-tracker.githubusercontent.com^
 ||otter.ai^
 ||perplexity.ai^
 ||phind.com^
@@ -140,18 +164,22 @@
 ||pi.ai^
 ||pika.art^
 ||pixverse.ai^
+||platform.claude.com^
 ||platform.openai.com^
 ||playground.com^
 ||playgroundai.com^
 ||poe.com^
 ||pplx.ai^
-||pro.gemini.google.com^
+||proxy.business.githubcopilot.com^
+||proxy.enterprise.githubcopilot.com^
+||proxy.individual.githubcopilot.com^
 ||q.us-east-1.amazonaws.com^
 ||quillbot.com^
 ||qwen.ai^
 ||recraft.ai^
 ||replika.ai^
 ||replika.com^
+||repo42.cursor.sh^
 ||robinfrontend-pa.googleapis.com^
 ||runway.com^
 ||runwayml.com^
@@ -170,6 +198,8 @@
 ||tailwind-pa.googleapis.com^
 ||talkie-ai.app^
 ||talkie-ai.com^
+||tongyi.aliyun.com^
+||tongyi.com^
 ||udio.com^
 ||undetectable.ai^
 ||v0.app^
@@ -182,6 +212,8 @@
 ||windsurf.com^
 ||wordtune.com^
 ||writesonic.com^
+||ws.chatgpt.com^
+||x.ai^
 ||yiyan.baidu.com^
 ||you.com^
 ||yuanbao.tencent.com^

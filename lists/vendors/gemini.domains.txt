@@ -1,5 +1,5 @@
 # AI Blocklist — Gemini — plain domain list (each entry also covers its subdomains)
-# 15 entries · updated 2026-09-30
+# 14 entries · updated 2026-10-15
 # Source: https://nullgen.ai/api/ai-vendors
 # Project: https://github.com/nullgen-inc/ai-blocklist
 # Maintained by Nullgen — https://nullgen.ai
@@ -16,6 +16,5 @@ generativelanguage.googleapis.com
 jnn-pa.googleapis.com
 opa-pa.clients6.google.com
 opa-pa.googleapis.com
-pro.gemini.google.com
 robinfrontend-pa.googleapis.com
 waa-pa.clients6.google.com
