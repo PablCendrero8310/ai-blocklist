@@ -125,6 +125,7 @@
 0.0.0.0 lmsys.org
 0.0.0.0 lovable.dev
 0.0.0.0 lumalabs.ai
+0.0.0.0 lumo.proton.me
 0.0.0.0 m365.cloud.microsoft
 0.0.0.0 magnific.ai
 0.0.0.0 magnific.com
