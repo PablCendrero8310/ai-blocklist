@@ -3,9 +3,9 @@
 ! Homepage: https://nullgen.ai
 ! Source: https://github.com/nullgen-inc/ai-blocklist
 ! License: CC0-1.0
-! Last modified: 2026-10-15
+! Last modified: 2026-10-26
 ! Expires: 1 day
-! Entries: 211
+! Entries: 212
 
 ||ab.chatgpt.com^
 ||aiplatform.googleapis.com^
@@ -127,6 +127,7 @@
 ||lmsys.org^
 ||lovable.dev^
 ||lumalabs.ai^
+||lumo.proton.me^
 ||m365.cloud.microsoft^
 ||magnific.ai^
 ||magnific.com^
